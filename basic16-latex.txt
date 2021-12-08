@@ -1,0 +1,105 @@
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+starwarsanewhope & franklindroosevelt & idontpracticesanteria \\
+\hline
+rememberremember & jacksonmississippi & nameallfiftyninewomen \\
+\hline
+passwordpassword & idonttrustlikethat & girlsjustwannahavefun \\
+\hline
+iloveyouverymuch & verymerrychristmas & clearandpresentdanger \\
+\hline
+passwordcracking & pittsburghsteelers & rageagainstthemachine \\
+\hline
+revolutionarywar & fullmetalalchemist & ghostbustersafterlife \\
+\hline
+afaultinourstars & thebermudatriangle & sixflagsamusementpark \\
+\hline
+hitchhikersguide & centauronthesubway & artificalintelligence \\
+\hline
+hackallthethings & alligatorsonaplane & thefellowshipofthering \\
+\hline
+timeisnearlyover & seasonaldepression & washingtonandjefferson \\
+\hline
+pokemonleafgreen & rocketmaneltonjohn & pittsburghpennsylvania \\
+\hline
+walkingpalmtrees & redhotchilipeppers & peoplesrepublicofchina \\
+\hline
+themountaingoats & addamsfamilyvalues & projectozone2kappamode \\
+\hline
+sonicthehedgehog & theswordinthestone & pokemondiamondandpearl \\
+\hline
+bohemianrhapsody & supersmashbrothers & festivusfortherestofus \\
+\hline
+billiejoelvienna & thejoeroganpodcast & flyingspaghettimonster \\
+\hline
+chamberofsecrets & grandbudapesthotel & didsomeonesaychocolate \\
+\hline
+wallaceandgromit & rebelwithoutacause & jinglebellsjinglebells \\
+\hline
+realnotclickbait & losalamosnewmexico & captainamericacivilwar \\
+\hline
+thegrapesofwrath & arosebyanyothername & lawofdiminishingreturns \\
+\hline
+ringlingbrothers & pep8styleguidelines & asiponderedweakandweary \\
+\hline
+allthekingshorses & severalotheroptions & onceuponamidnightdreary \\
+\hline
+abcdefghijklmnopq & disappointedparents & magicpeoplevoodoopeople \\
+\hline
+12345678910111213 & thisisalongpassword & maybeokaycanbeouralways \\
+\hline
+happythanksgiving & thomasthetankengine & perksofbeingawallflower \\
+\hline
+aliceinwonderland & undergroundrailroad & hungergamescatchingfire \\
+\hline
+theincrediblehulk & pokemonrubysapphire & thisismyfacebookpassword \\
+\hline
+swisscheesetheory & spidermanhomecoming & nightmarebeforechristmas \\
+\hline
+sixteencharacters & squidgameinreallife & howilearnedtolovethebomb \\
+\hline
+plutoisnotaplanet & theamazonrainforest & correcthorsebatterystaple \\
+\hline
+charlietheunicorn & nooneknowsyoureadog & objectorientedprogramming \\
+\hline
+professorsycamore & nationalpublicradio & lateforaveryimportantdate \\
+\hline
+gigantamaxpikachu & mynameisinigomontoya & nationalsciencefoundation \\
+\hline
+drstonestoneworld & peanutbutterandjelly & unfortunateseriesofevents \\
+\hline
+aidingandabetting & sacramentocalifornia & ifimayinterjectforamoment \\
+\hline
+wearethechampions & northandsouthamerica & rudolphtherednosereindeer \\
+\hline
+artificialflavors & losangeloscalifornia & sillyrabbittrixareforkids \\
+\hline
+flaminghotcheetos & thepromisedneverland & walkinginawinterwonderland \\
+\hline
+donkeykongcountry & accidentalmisgivings & champaigneformyrealfriends \\
+\hline
+goodtothelastdrop & thefastandthefurious & anabsolutelyremarkablething \\
+\hline
+orderofthephoenix & presidentialcampaign & whatisthisacrossoverepisode \\
+\hline
+2001aspaceodyssey & buildgodthenwelltalk & theimportanceofbeingearnest \\
+\hline
+straitofgibraltar & shutupanddancewithme & theartofcomputerprogramming \\
+\hline
+theenglishchannel & penguinsofmadagascar & platformnineandthreequarters \\
+\hline
+prideandprejudice & glorygloryhallelujah & thelionthewitchandthewardrobe \\
+\hline
+steinbeckthepearl & whoareyouandimsosorry & ionlylistentothemountaingoats \\
+\hline
+hickorydickorydock & hitmewithyourbestshot & iwantahippopotamusforchristmas \\
+\hline
+equivalentexchange & anythingandeverything & harrypotterandthesorcerersstone \\
+\hline
+schoolofhardknocks & unitedstatesofamerica & eternalsunshineofthespotlessmind \\
+\hline
+chroniclesofnarnia & newsupermariobrothers & ohsaycanyouseebythedawnsearlylight \\
+\hline
+\end{tabular}
+\end{center}

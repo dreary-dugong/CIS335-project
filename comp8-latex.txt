@@ -1,0 +1,65 @@
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+J3\$u\$777 & \$hr3kTwo & J0hnny\$\$\$ & D4rthVader! & H4rry.P0tt3r \\
+\hline
+b\#rdB\#x1 & P3pp@P!g & L\%n3yT\%ns & T3x@sR@ng3r & Password150! \\
+\hline
+6Ix9Ine! & J0hnC3n@ & Ch1mp@nzee & C4t!ntheh4t & 0w0WhatsThis? \\
+\hline
+B1g-B1rd & IL0v3Y0u! & Spam\&Eggs1 & (Password1) & Br()kencyde67 \\
+\hline
+31415:Pi & \$c00byD00 & 420Bl@zeIt & S!lentN1ght & Infernape123! \\
+\hline
+r8H)4mn\& & \$ecreT123 & T1ger-K1ng & </Passw0rd> & B3rries\&Cr3am \\
+\hline
+Canoes\%5 & \#Maga2020 & Kany3W3st! & Ilikep1zza. & M!chaelJ0rdan \\
+\hline
+!Qwerty1 & R0n@ldMcD & !1qaz@2WSX & m4daGascar\% & Sl1ngs\&Arrows \\
+\hline
+\#Python6 & Chr1stm@\$ & Wizard.101 & 10:36any\%Wr & B1gf\%tHunters \\
+\hline
+\$Un\$et\$1 & Squ1dG@me & D!nosaur64 & pressAlt+F4 & R3dR1d1ingH\%d \\
+\hline
+H0m3m@d3 & N@ruto123 & H4m\&Ch33s3 & 104NorthSt. & Ctrl+Shift+F2 \\
+\hline
+Aaaaaa1! & l1lB**m69 & \$p33dR4c3r & f7jT3)nt\&b\$ & M!chae1Phelps \\
+\hline
+4rtNite! & L1on+K1ng & >9Thousand & Tomcruise1\# & G3rmanSh3p@rd \\
+\hline
+R3v3ng3! & Al1ce+B0b & I79exit65! & Br3adW!nner & \#R0naldR3agan \\
+\hline
+F@ceb00k & C0ca-C0la & Number100! & Sup3rP()wer & F0rdPrefect42* \\
+\hline
+S3@ttle. & St@rW@rs6 & CIS-220oop & Vr00mVr00m* & Washington-DC1 \\
+\hline
+M@dison4 & P0l@rBear & Tr\#1nWr\#ck & root@Work-1 & H()ll()wKn1ght \\
+\hline
+H4rv4rd\% & T0m\&J3rry & Wh4tsth4t? & T*mSelleck69 & \$tupidPassw0rd \\
+\hline
+107\%Mark & T0m.Brady & R4!s!nBr4n & B@rrack0bama & G@nd@lfTh3Gr@y \\
+\hline
+Pb\&J2001 & Newyork1! & W0nderW@ll & C@lifornia50 & lsugu5656zzYU;) \\
+\hline
+Rupaul\$4 & Over9000! & Gr*peFru1t & ETphoneH0me? & Y3ll\#wSubmarine \\
+\hline
+Asdfjk;1 & H@llow33n & P@ssword123 & 25-Sept-2006 & Washington-1776 \\
+\hline
+12345Aa; & p4!nFully & ThankYou!50 & Addison-1993 & P/a/s/s/w/0/r/d \\
+\hline
+R3adTh!s & Abcd1234\% & \$uperMan777 & Batman\&R0bin & M30wCh!ck3nF!sh \\
+\hline
+T0m+Judy & <>Pt1m1sm & \#31337Haxor & 04.July.1776 & Ctrl+Alt+D3l3t3 \\
+\hline
+M*4*s*h! & M@yThe4th & 6*7fortyTwo & B3lla+Edward & 10\%Luck20\%Skill \\
+\hline
+\#litFam1 & Bl4st*ise & Horsegirl1\% & PulpF1ct!ion & \%K\%a\%N\%g\%A\%r\%0\%0\% \\
+\hline
+B!cycl3s & GNU/l1nux & Sh@k3sp3@re & T0il\&Tr0uble & \%P\%a\%s\%s\%w\%o\%r\%d\%1\% \\
+\hline
+M!ch3l!n & Puppy123! & Louis-XIV14 & 1600PennAve. & print("H3lloworld!") \\
+\hline
+Yu-Gi-0h & 1\&2\&Three & P1meapples! & Pabl0P!cass0 & <script>alert("Test1!")</script> \\
+\hline
+\end{tabular}
+\end{center}

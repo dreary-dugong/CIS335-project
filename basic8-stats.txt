@@ -1,0 +1,58 @@
+                       _ 
+     StatsGen 0.0.3   | |
+      _ __   __ _  ___| | _
+     | '_ \ / _` |/ __| |/ /
+     | |_) | (_| | (__|   < 
+     | .__/ \__,_|\___|_|\_\
+     | |                    
+     |_| iphelix@thesprawl.org
+
+
+[*] Analyzing passwords in [basic8.txt]
+[+] Analyzing 100% (150/150) of passwords
+    NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
+
+[*] Length:
+[+]                         9: 28% (42)
+[+]                        10: 22% (33)
+[+]                         8: 20% (31)
+[+]                        11: 11% (17)
+[+]                        12: 07% (11)
+[+]                        13: 04% (6)
+[+]                        14: 03% (5)
+[+]                        17: 01% (2)
+[+]                        15: 00% (1)
+[+]                        16: 00% (1)
+[+]                        18: 00% (1)
+
+[*] Character-set:
+[+]                loweralpha: 92% (138)
+[+]             loweralphanum: 04% (6)
+[+]                   numeric: 02% (3)
+[+]         loweralphaspecial: 01% (2)
+[+]                mixedalpha: 00% (1)
+
+[*] Password complexity:
+[+]                     digit: min(0) max(8)
+[+]                     lower: min(0) max(18)
+[+]                     upper: min(0) max(1)
+[+]                   special: min(0) max(1)
+
+[*] Simple Masks:
+[+]                    string: 92% (139)
+[+]               stringdigit: 03% (5)
+[+]                     digit: 02% (3)
+[+]             stringspecial: 00% (1)
+[+]       stringspecialstring: 00% (1)
+[+]          digitstringdigit: 00% (1)
+
+[*] Advanced Masks:
+[+]        ?l?l?l?l?l?l?l?l?l: 25% (38)
+[+]      ?l?l?l?l?l?l?l?l?l?l: 20% (31)
+[+]          ?l?l?l?l?l?l?l?l: 17% (26)
+[+]    ?l?l?l?l?l?l?l?l?l?l?l: 10% (16)
+[+]  ?l?l?l?l?l?l?l?l?l?l?l?l: 07% (11)
+[+] ?l?l?l?l?l?l?l?l?l?l?l?l?l: 04% (6)
+[+] ?l?l?l?l?l?l?l?l?l?l?l?l?l?l: 03% (5)
+[+]          ?d?d?d?d?d?d?d?d: 02% (3)
+[+] ?l?l?l?l?l?l?l?l?l?l?l?l?l?l?l?l?l: 01% (2)

@@ -1,0 +1,53 @@
+                       _ 
+     StatsGen 0.0.3   | |
+      _ __   __ _  ___| | _
+     | '_ \ / _` |/ __| |/ /
+     | |_) | (_| | (__|   < 
+     | .__/ \__,_|\___|_|\_\
+     | |                    
+     |_| iphelix@thesprawl.org
+
+
+[*] Analyzing passwords in [comp8.txt]
+[+] Analyzing 100% (150/150) of passwords
+    NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
+
+[*] Length:
+[+]                         8: 22% (33)
+[+]                         9: 19% (29)
+[+]                        11: 17% (26)
+[+]                        10: 12% (19)
+[+]                        12: 10% (15)
+[+]                        13: 08% (12)
+[+]                        15: 04% (7)
+[+]                        14: 03% (5)
+[+]                        32: 00% (1)
+[+]                        17: 00% (1)
+[+]                        19: 00% (1)
+[+]                        20: 00% (1)
+
+[*] Character-set:
+[+]                       all: 100% (150)
+
+[*] Password complexity:
+[+]                     digit: min(1) max(6)
+[+]                     lower: min(1) max(20)
+[+]                     upper: min(1) max(4)
+[+]                   special: min(1) max(10)
+
+[*] Simple Masks:
+[+]                 othermask: 79% (119)
+[+]        stringdigitspecial: 06% (10)
+[+]        stringspecialdigit: 04% (7)
+[+]        specialstringdigit: 04% (6)
+[+]        digitstringspecial: 02% (4)
+[+]        specialdigitstring: 01% (2)
+[+]        digitspecialstring: 01% (2)
+
+[*] Advanced Masks:
+[+]          ?u?l?l?l?l?l?s?d: 02% (3)
+[+]        ?u?d?l?l?s?u?d?l?l: 01% (2)
+[+]        ?u?l?l?l?d?d?d?d?s: 01% (2)
+[+]  ?d?d?s?u?l?l?l?s?d?d?d?d: 01% (2)
+[+]    ?u?l?l?l?l?l?l?l?l?d?s: 01% (2)
+[+]          ?s?u?l?l?l?l?l?d: 01% (2)
